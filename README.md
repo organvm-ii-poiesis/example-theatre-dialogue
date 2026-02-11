@@ -163,7 +163,7 @@ The generated text is presented to performers as suggestions, not commands. Perf
 
 ### Across Organs
 
-- **ORGAN-I (Theoria) → [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine):** The theoretical foundation. Recursive-engine models narrative as a recursive structure where stories contain stories, where the telling of a story is itself a story, where self-reference is not a bug but a feature. `example-theatre-dialogue` implements this by making the audience's act of choosing part of the narrative — the story is about an audience that shapes a story. The recursion is not merely structural; it is experiential.
+- **ORGAN-I (Theoria) → [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity):** The theoretical foundation. Recursive-engine models narrative as a recursive structure where stories contain stories, where the telling of a story is itself a story, where self-reference is not a bug but a feature. `example-theatre-dialogue` implements this by making the audience's act of choosing part of the narrative — the story is about an audience that shapes a story. The recursion is not merely structural; it is experiential.
 
 - **ORGAN-IV (Taxis) → [agentic-titan](https://github.com/organvm-iv-taxis/agentic-titan):** The orchestration layer. In a multi-venue or networked performance scenario, agentic-titan could coordinate multiple simultaneous instances of `example-theatre-dialogue`, aggregating votes across locations, managing shared narrative state, and ensuring that the distributed performance remains coherent.
 
