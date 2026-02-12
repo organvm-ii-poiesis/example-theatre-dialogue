@@ -1,0 +1,16 @@
+{
+  "name": "example-theatre-dialogue",
+  "version": "0.1.0",
+  "description": "Theatre dialogue system for interactive narrative performance with client-server architecture",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}
