@@ -1,0 +1,7 @@
+schema_version: '1.0'
+repo: example-theatre-dialogue
+organ: II
+display_name: Interactive theatre dialogue example with server and client
+delivery:
+- platform: web_app
+  status: not_started
